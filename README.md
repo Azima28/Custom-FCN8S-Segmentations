@@ -332,17 +332,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 For questions or issues, please open an issue on GitHub.
 
----
 
-⭐ **Star this repo if you find it helpful!**
-
-### Why Choose FCN-8s?
-
-✅ **Transfer Learning Ready** - Pre-trained VGG16 backbone  
-✅ **Multi-scale Features** - Skip connections from 3 levels  
-✅ **Proven Architecture** - Widely used in segmentation tasks  
-✅ **Fast Inference** - Optimized VGG16 implementation  
-✅ **Natural Images** - Excellent for real-world photos  
-
-**Perfect for:** Object segmentation, scene parsing, aerial imagery, autonomous driving
-```
